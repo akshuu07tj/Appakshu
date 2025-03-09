@@ -21,4 +21,4 @@ Screenshots: Below are the sample screenshots for reference
 ![after reset](https://github.com/user-attachments/assets/2dee8694-eba2-4f4f-8df4-9754673f66da)
 
 
-Author Information: Tamilarasu V
+Author Information: Akshaya T J
